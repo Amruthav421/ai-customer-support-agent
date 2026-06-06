@@ -36,7 +36,7 @@ The main objective of this project is to:
 
  Project Documentation
 Full detailed explanation is available in PDF file:
-`project-doc.pdf`
+`project on Ai in salesforce.pdf`
 
 ---
 
